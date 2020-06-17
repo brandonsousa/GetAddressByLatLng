@@ -1,0 +1,27 @@
+{
+  "name": "getaddressbylocation",
+  "version": "1.0.0",
+  "description": "get address by LatLng",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonsousa/GetAddressByURL.git"
+  },
+  "author": "Brandon Sousa da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonsousa/GetAddressByURL/issues"
+  },
+  "homepage": "https://github.com/brandonsousa/GetAddressByURL#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
